@@ -1,0 +1,23 @@
+/* I have no clue what I am doing*/
+
+title {
+float: center;	
+}
+
+title {
+	font-size: 2.00em;
+	clear:both;
+	display: inline-block;
+}
+
+ h1 p {
+	border:0 0 0 5 px;
+	padding: 10 0 0 0 px;
+	margin:0 0 0 5 px;
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 5px;
+}

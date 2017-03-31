@@ -1,0 +1,11 @@
+<-- font-family: 'Open Sans', sans-serif; -->
+
+<-- id is # class is . because it as class -->
+
+<-- change these html comments to css because this is a css style page -->
+<--
+Hours: Monday - Friday 8am - 4:30pm, WEDNESDAY 8am - 12pm FIND OUT IF IT NEEDS TO BE CHANGED -->
+
+<-- Title should be bigger -->
+
+#FFCC00

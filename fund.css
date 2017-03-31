@@ -1,0 +1,18 @@
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 7px;
+	font-size: 1.55em;
+	background-color: #ce2029;
+	border-style: dashed;
+}
+
+h1 {
+	color: #FB8C00;
+	font-size: 3.0em;
+}
+
+h2 {
+	color: #FB8C00;
+	font-size: 3.0em;
+}

@@ -1,0 +1,24 @@
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 7px;
+	font-size: 1.55em;
+	background-color: #ce2029;
+	border-style: dashed;
+}
+
+p {
+	text-align: center;
+}
+
+h1 {
+	color: #D50000;
+}
+
+h2 {
+	color: #D50000;
+}
+
+h3 {
+	color: #D50000;
+}

@@ -1,0 +1,81 @@
+/* I have no clue what I am doing*/
+
+head {
+	border: 20 px;
+	color: 
+}
+
+body {
+	background-color: #1A237E;
+}
+
+/*unvisited link*/
+a:link {
+	color:#000;
+}
+
+/*Visited*/
+a:visited {
+	color: #fff;
+}
+
+/*hovering*/
+a:hover {
+	color: #000;
+}
+
+/* selected*/
+a:active {
+	color:#fff;
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 7px;
+	font-size: 1.55em;
+	background-color: #ce2029;
+	border-style: dashed;
+}
+
+title {
+	font-size: 2.00em;
+	clear:both;
+	display: inline-block;
+	background-color:#1A237E ; /* Switched them*/
+	color:  #FBC02D ; 
+}
+
+span {
+	background-color:#1A237E ; /* Switched them*/
+	color:  #FBC02D ; 
+}
+
+h1 {
+	color: #FB8C00;
+	text-align: center;
+}
+
+h1 p {
+	font-size: 3.20em;
+	color: #1A237E;
+	text-align: center;
+}
+
+ p {
+	background-color:#1A237E ; /* Switched them*/
+	color:  #FBC02D ; 
+	font-size: 2.00 em;
+}
+
+h2 {
+	color: #FB8C00;
+	text-align: center;
+}
+
+h2 p {
+	background-color: #FBC02D;
+	color: #1A237E;
+	font-size: .670 em;
+	text-align: center;
+}

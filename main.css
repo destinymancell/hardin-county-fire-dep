@@ -1,0 +1,128 @@
+/* I have no clue what I am doing*/
+
+head {
+	border: 20 px;
+	color: 
+}
+
+body {
+	background-color: #1A237E;
+}
+
+/*unvisited link*/
+a:link {
+	color:#000;
+}
+
+/*Visited*/
+a:visited {
+	color: #fff;
+}
+
+/*hovering*/
+a:hover {
+	color: #000;
+}
+
+/* selected*/
+a:active {
+	color:#fff;
+}
+
+.selected {
+	background-color:
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+	margin: 0 7px;
+	font-size: 1.55em;
+	background-color: #ce2029;
+	border-style: dotted;
+	text-align: center;
+}
+
+title {
+	font-size: 2.00em;
+	clear:both;
+	display: inline-block;
+	background-color:#1A237E ; /* Switched them*/
+	color:  #FBC02D ; 
+}
+
+span {
+	background-color:#1A237E ; /* Switched them*/
+	color:  #FBC02D ; 
+}
+
+h1 {
+	color: #D50000;
+	text-align:center;
+	font-size: 3.0em;
+}
+
+h1 p {
+	font-size: 3.00em;
+	color: #1A237E;
+}
+
+ p {
+	background-color:#1A237E ; /* Switched them*/
+	color:  #FBC02D ; 
+	font-size: 1.20em;
+	font-family: 'Bitter', serif;
+}
+
+h2 {
+	color: #D50000;
+	text-align:center;
+	font-size: 3.0em;
+}
+
+h2 p {
+	background-color: #FBC02D;
+	color: #1A237E;
+	font-size: 2.0em;
+}
+
+h3 {
+	color: #D50000;
+	text-align:center;
+	font-size: 3.0em;
+}
+
+h3  p {
+	background-color: #FBC02D;
+	color: #1A237E;
+	font-size: 2.00em;
+}
+
+h4 {
+	color: #D50000;
+	text-align:center;
+	font-size: 3.0em;
+}
+
+h4 p {
+	background-color: #FBC02D;
+	color: #1A237E;
+	font-size: 2.00em;
+}
+
+#center {
+max-width: 40%;
+position: relative;
+display: block;
+}
+
+#center img {
+width: 52%;
+height: 40%;
+display: inline-block;
+margin: 0auto;
+}
+
+
+
+
